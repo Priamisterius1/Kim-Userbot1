@@ -52,7 +52,8 @@ Repo Yang Dibuat [🌱KIM 🌱](https://t.me/warga_pati) Dari Berbagai Repo User
 
 
 ## <p align="center">DEPLOY KIM-USERBOT</p>
-
+## Deploy to Render
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/abdurrohimbontro/Kim-Userbot)
 
 <p align="center"><a href="https://netlify.com/deploy?template=https://github.com/abdurrohimbontro/Kim-Userbot/tree/Kim-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20netlify-blue?style=flat&logo=netlify" width="210" height="34.45" /></a></p>
 
