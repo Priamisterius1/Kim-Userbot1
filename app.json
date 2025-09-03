@@ -23,7 +23,7 @@
       "required": true
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di repl caranya ada di repo, jika tidak tau bisa ke @KingUserbotSupport lalu ketik #string",
+      "description": "1BVtsOKEBuzCfdW1GI0INh-u-GZDUZhX5PQPGP2-UfENB4QhkJlaRPD4DRkhBAyr8Gtx_UmGwyH8BeavQi9inl0gOP8uX4C0kYMugBaCngOJl6bXkoKkNAfJcOYYbOy8ugPW8AQ93qgOVhT-2sNe6po52RRNlj9-i7ns626N5G0FZ039wj2-nzMmFx-TjyDlFD2gxezge1_bAIZ8Mb8j0hpg7bBF9NjgUvdYpnIfNhmO7540Uq7h1QQXj6g4wve0XmN4Xoblsciqyzo5-IF3Jvvf9RZOTOeiVp7QqQeuD51JmjCQjgnPFzSw2i6_wjIo8nCJz7c4K6XIWVxjIsS4hZtHAm0U-aFQ=",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -42,7 +42,7 @@
     },
     "BOTLOG_CHATID": {
       "description": "Buatlah sebuah grup private/public masukan bot rose lalu ketik /id.",
-      "value": "-1001305297430",
+      "value": "-1002774747214",
       "required": true
     },
     "CONSOLE_LOGGER_VERBOSE": {
@@ -58,7 +58,7 @@
       "required": false
     },
     "MONGO_URI": {
-      "description": "Your MongoDB Atlas URL, Get your guide from https://telegra.ph/Mongo-DB-12-24.",
+      "description": "mongodb+srv://zte5g01_db_user:<db_password>@cluster0.zce67xr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": false
     },
     "GENIUS": {
@@ -163,7 +163,7 @@
       "required": false
     },
     "S_PACK_NAME": {
-      "description": "Nama Sticker Pack Mu",
+      "description": "uciha",
       "required": false
     },
     "G_BAN_LOGGER_GROUP": {
