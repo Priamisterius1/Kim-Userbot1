@@ -9,17 +9,17 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/abdurrohimbontro/Kim-Userbot",
-  "telegram": "https://t.me/warga_pati",
-  "success_url": "https://t.me/warga_pati",
+  "repository": "https://github.com/Priamisterius1/Kim-Userbot1",
+  "telegram": "https://t.me/lorduciha",
+  "success_url": "https://t.me/lorduciha",
   "stack": "container",
   "env": {
     "API_KEY": {
-      "description": "Dapatkan Api Key di web my.telegram.org.",
+      "description": "28092269",
       "required": true
     },
     "API_HASH": {
-      "description": "Dapatkan Api Hash Di Web my.telegram.org.",
+      "description": "786a4745d4e4691b527f7d101c1955c3",
       "required": true
     },
      "STRING_SESSION": {
