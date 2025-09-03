@@ -215,11 +215,11 @@
       "required": false
     },
     "BOT_TOKEN": {
-      "description": "Set this to enable inline bot helper. get the token from @BotFather",
+      "description": "8238830028:AAEgyC1nnYRZ7avwcykQ9sjMyKc2nrO8wBA",
       "required": false
     },
     "BOT_USERNAME": {
-      "description": "Username of the bot you created with @BotFather",
+      "description": "kimuserbot11_bot",
       "required": false
     }
   },
